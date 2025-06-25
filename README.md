@@ -19,7 +19,7 @@ A web-based system that helps students discover suitable career options based on
 | Part        | Technology Used       |
 |-------------|------------------------|
 | Frontend    | HTML, CSS, JavaScript  |
-| Backend     | springboot  / Python (Flask)   |
+| Backend     | springboot  / Python (Flask)   | AI/ML
 | Database    | MySQL                  |
 | Server      | Localhost      |
 
